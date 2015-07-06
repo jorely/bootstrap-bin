@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap bin framework",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jorely/bootstrap-bin",
+  "authors": [
+    "Jorel Yabut <jyabutwebdesigner@gmail.com>"
+  ],
+  "description": "Bootstrap Bin Starter Framework Base on twitter bootstrap",
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
