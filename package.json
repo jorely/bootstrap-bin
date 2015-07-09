@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-bin",
+  "version": "0.0.1",
+  "description": "Bootstrap Bin Starter Framework Base on twitter bootstrap",
+  "main": "GruntFile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bowercopy": "^1.2.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "bower": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorely/bootstrap-bin.git"
+  },
+  "author": "Jorel Yabut <jyabutwebdesigner@gmail.com>",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/jorely/bootstrap-bin/issues"
+  },
+  "homepage": "https://github.com/jorely/bootstrap-bin"
+}
